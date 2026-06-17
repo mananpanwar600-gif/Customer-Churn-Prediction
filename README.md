@@ -32,7 +32,7 @@ The application is designed for lightweight, serverless hosting, allowing contin
 ### 🔗 Live Application
 
 You can access the deployed app here:
-👉 https://your-streamlit-app-link.streamlit.app/
+👉https://customer-churn-prediction-adxnrovsrccctdewbsa7ra.streamlit.app/
 
 ## 📂 Project Structure
 
