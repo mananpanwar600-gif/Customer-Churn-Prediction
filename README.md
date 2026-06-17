@@ -19,6 +19,21 @@ This project uses:
 
 ---
 
+## 🚀 Deployment
+
+This project is deployed as a web application using Streamlit Cloud, enabling real-time interaction with the trained machine learning model through a browser interface.
+
+The deployed application hosts the trained customer churn prediction model and performs inference on user-provided inputs to generate predictions instantly.
+
+The deployment environment is configured to ensure compatibility with the machine learning dependencies, including TensorFlow, Scikit-learn, and other required Python libraries.
+
+The application is designed for lightweight, serverless hosting, allowing continuous availability and easy access without requiring local setup.
+
+### 🔗 Live Application
+
+You can access the deployed app here:
+👉 https://your-streamlit-app-link.streamlit.app/
+
 ## 📂 Project Structure
 
 ```text
@@ -38,3 +53,5 @@ Customer-Churn-Prediction/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+
+
